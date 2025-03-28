@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameLogic.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/GameUI.unity
+    guid: e723468fefd230144a973fbc3a4f7a97
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 04a800245fe382a4192bea64edfc9c52, type: 3}
+  m_UseUCBPForAssetBundles: 0
